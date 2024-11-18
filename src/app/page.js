@@ -253,7 +253,7 @@ useEffect(() => {
             it&apos;s about making sure your users don&apos;t feel like
             they&apos;re about to embark on a terrifying financial
             rollercoaster. So, whether it&apos;s avoiding greens that look like
-            they were made to keep kids off oyur lawn or making sure the
+            they were made to keep kids off your lawn or making sure the
             lavender stays in your diffuser, remember: designing a finance app
             is as much about user experience as it is about the cold, hard
             numbers. Let&apos;s bring a little magic to money management—minus
