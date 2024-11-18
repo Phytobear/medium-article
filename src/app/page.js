@@ -125,7 +125,7 @@ export default function Page() {
             </li>
           </ul>
 
-          {/* Dos and Donts */}
+          {/* Dos and donts */}
           <h2 className="text-2xl font-bold mt-12 mb-6">
             Do&apos;s and Don&apos;ts
           </h2>
@@ -173,7 +173,7 @@ export default function Page() {
             </li>
           </ul>
 
-          {/* Try these tips and tricks */}
+          {/* Try these Tips and Tricks */}
           <h2 className="text-2xl font-bold mt-12 mb-6">
             Try These Simple Tips & Tricks
           </h2>
