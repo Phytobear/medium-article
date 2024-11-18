@@ -149,11 +149,12 @@ export default function Page() {
             <li>
               <strong>Calculating National Insurance and Taxes</strong>: Do make
               your comments excessively verbose, like you&apos;re preparing a
-              script for an epic play titled &apos;The Adventures of Endless Tax
-              Calculations.&apos; The longer, the better, until readers give up
-              halfway through and decide filing taxes sounds more fun. It&apos;s
-              a perfect blend of code documentation and a little existential
-              comedy. Spoiler: the financial situation is still a tragedy.
+              script for an epic play titled &apos;The Fellowship of the Tax
+              Ring: An Unexpected Audit.&apos; The longer, the better, until
+              readers give up halfway through and decide filing taxes sounds
+              more fun. It&apos;s a perfect blend of code documentation and a
+              little existential comedy. Spoiler: the financial situation is
+              still a tragedy.
             </li>
           </ul>
 
@@ -168,8 +169,8 @@ export default function Page() {
             <li>
               <strong>Avoid Metallic Gradients on Greens</strong>: Don&apos;t
               attempt to make your greens look edgy by adding a metallic
-              gradient. The result looks like something forged in the fires of
-              bad regret.
+              gradient. The result looks like something scraped off the floor at
+              Asda after closing time.
             </li>
           </ul>
 
@@ -245,23 +246,24 @@ useEffect(() => {
             </li>
           </ul>
 
-          {/* Final Thoughts Section */}
+          {/* Final Thoughts*/}
           <h2 className="text-2xl font-bold mt-12 mb-6">Final Thoughts</h2>
           <p className="mb-8">
             Picking the right colours isn&apos;t just about aesthetics;
             it&apos;s about making sure your users don&apos;t feel like
             they&apos;re about to embark on a terrifying financial
             rollercoaster. So, whether it&apos;s avoiding greens that look like
-            they were forged in regret or making sure the lavender stays in your
-            diffuser, remember: designing a finance app is as much about user
-            experience as it is about the cold, hard numbers. Let&apos;s bring a
-            little magic to money management—minus the tragic colours. Have you
-            encountered other abominable hues in your design adventures? Share
-            them, and maybe we can build the definitive list of &apos;Top 10
-            Worst Colour Combos to use when building an App.&apos; In the
-            meantime, we&apos;ll be over here, waiting for Frankie to bring out
-            the next app—hopefully with fewer chartreuse gradients. Stay
-            mindful, stay chill, and keep those finances feeling fabulous.
+            they were made to keep kids off oyur lawn or making sure the
+            lavender stays in your diffuser, remember: designing a finance app
+            is as much about user experience as it is about the cold, hard
+            numbers. Let&apos;s bring a little magic to money management—minus
+            the tragic colours. Have you encountered other abominable hues in
+            your design adventures? Share them, and maybe we can build the
+            definitive list of &apos;Top 10 Worst Colour Combos to use when
+            building an App.&apos; In the meantime, we&apos;ll be over here,
+            waiting for Frankie to bring out the next app—hopefully with fewer
+            chartreuse gradients. Stay mindful, stay chill, and keep those
+            finances feeling fabulous.
           </p>
         </div>
       </article>
