@@ -74,7 +74,12 @@ export default function Page() {
           <p className="mb-8">
             Everyone knows that finance apps are a unique breed. They&apos;re
             supposed to keep you organised, calm, and definitely not crying into
-            your morning coffee because of the colour palette...
+            your morning coffee because of the colour palette. So today,
+            let&apos;s talk about which colours you absolutely, definitely
+            should avoid when making monthly finance apps. This isn&apos;t your
+            typical colour theory guide—this is for those who like to live on
+            the edge, or perhaps, like me, enjoy seeing a disaster happen in
+            real-time. Let&apos;s get into it.
           </p>
 
           {/* Colours to Avoid Section */}
